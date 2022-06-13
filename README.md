@@ -7,6 +7,7 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
+* creado por el increible Platzi Team
 
 Y como un amable recordatorio: **Este readme.md es una practica**.  Si llegaste hasta acá NO TE LO TOMES EN SERIO y mejor ve a mi twitter [VictorAlas92](https://twitter.com/VictorAlas92)
 
