@@ -8,7 +8,6 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/cursos/git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 
-Y como un amable recordatorio: **Este readme.md es una practica**.  Si llegaste hasta acá NO TE LO TOMES EN SERIO y mejor ve a mi twitter [VictorAlas92][VictorAlas92]
-[VictorAlas92]: https://twitter.com/VictorAlas92
+Y como un amable recordatorio: **Este readme.md es una practica**.  Si llegaste hasta acá NO TE LO TOMES EN SERIO y mejor ve a mi twitter [VictorAlas92](https://twitter.com/VictorAlas92)
 
 este README.md fue hecho con esta [herramienta](https://pandao.github.io/editor.md/en.html)
